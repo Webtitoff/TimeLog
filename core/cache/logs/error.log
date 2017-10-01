@@ -1,0 +1,7 @@
+[2017-09-30 19:59:30] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/collections/default
+[2017-09-30 20:45:35] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-09-30 20:45:53] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 2
+[2017-09-30 20:52:38] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-09-30 21:34:07] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-09-30 21:37:47] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-09-30 22:37:49] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
