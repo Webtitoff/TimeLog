@@ -5,3 +5,18 @@
 [2017-09-30 21:34:07] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
 [2017-09-30 21:37:47] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
 [2017-09-30 22:37:49] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-10-01 15:14:22] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-10-01 15:19:15] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 509) Error caching script elements/modplugin/4
+[2017-10-01 15:19:15] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-10-01 15:21:10] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-10-01 15:23:38] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-10-01 15:24:15] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-10-01 15:25:29] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 509) Error caching script elements/modplugin/4
+[2017-10-01 15:26:06] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-10-01 16:09:43] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-10-01 16:10:06] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-10-01 16:10:33] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 509) Error caching script elements/modplugin/4
+[2017-10-01 16:32:00] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-10-01 16:32:00] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-10-01 16:37:40] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-10-01 16:39:38] (ERROR @ E:\OSPanel\domains\timelog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
